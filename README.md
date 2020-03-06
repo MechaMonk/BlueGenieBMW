@@ -39,6 +39,3 @@ Some info regarding K-CAN - it is @100kbps  <br>
 <br> <br><br> <br>
 Photos:
 ![PCB](https://github.com/dzid26/BlueGenieBMW/blob/master/Hardware/Ready%20to%20solder.jpg)
-![PCB](https://github.com/dzid26/BlueGenieBMW/blob/master/Hardware/PCB%2BCAN%2BESP%2B5V%20shields%20together.jpg)
-![PCB](https://github.com/dzid26/BlueGenieBMW/blob/master/Hardware/MCP2515.jpg)
-![PCB](https://github.com/dzid26/BlueGenieBMW/blob/master/Hardware/BK3254.jpg)
